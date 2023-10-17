@@ -24,6 +24,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=manikanta-adup&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=manikanta-adupa&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Created with GPRM ( https://gprm.itsvg.in ) -->
