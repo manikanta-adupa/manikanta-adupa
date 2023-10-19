@@ -5,7 +5,7 @@
 - :robot: &nbsp; Strong Foundations in Data Structures and Algorithms.
 - 📫 How to reach me **manikantapradeep.adapa@gmail.com**
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]([https://discord.gg/](https://discordapp.com/users/772073972111507466)) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/manikanta_adapa/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manikanta-adupa/) 
 
 # 💻 Tech Stack:
