@@ -1,6 +1,6 @@
 # 💫 About Me:
-- 🔭 &nbsp; I’m working on Deep Learning with TensorFlow.
-- 🌱 &nbsp; I’m currently learning Python Full Stack Development.
+- 🔭 &nbsp; I’m working on RentalEase.
+- 🌱 &nbsp; I’m currently learning JavaScript Full Stack Development.
 - 🤔 &nbsp; Exploring new technologies.
 - :robot: &nbsp; Strong Foundations in Data Structures and Algorithms.
 - 📫 How to reach me **manikantapradeep.adapa@gmail.com**
